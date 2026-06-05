@@ -18,3 +18,7 @@ It estimates monthly energy usage, predicts electricity bills and identifies the
 ## How to Run
 
 python main.py
+
+## Screenshot
+
+![Powertrack Output](screenshot.png)
